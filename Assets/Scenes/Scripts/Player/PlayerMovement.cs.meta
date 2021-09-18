@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 96a105216c4ab4c46b7da4d43fc178d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - geometryComponent: {instanceID: 0}
+  - iconKnife: {instanceID: 0}
+  - iconAction: {instanceID: 0}
+  - alertNoise: {fileID: 8300000, guid: b8d8c2f419d47dd4ebe2f5f8fc63d471, type: 3}
+  - disguiseNoise: {fileID: 8300000, guid: 906a13c8087aac84d83e87c469802889, type: 3}
+  - stab1: {instanceID: 0}
+  - stab2: {instanceID: 0}
+  - stab3: {instanceID: 0}
+  - stab4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
